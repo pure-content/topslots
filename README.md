@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
@@ -97,3 +98,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+# topslots
+>>>>>>> ec1d5d4ce808bc4fb049dd1f15c2f6b13f7d42c2
